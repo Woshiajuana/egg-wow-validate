@@ -83,5 +83,5 @@
     "test": "npm run lint -- --fix && npm run test-local",
     "test-local": "egg-bin test"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
